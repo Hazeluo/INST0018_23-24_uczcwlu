@@ -1,1 +1,57 @@
+/* style */
+body{
+	background-image: url(img/pic_background.jpg);
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position: bottom;
+	background-size: 100%;
+	font-family: Georgia,serif;
+	font-size: 15px;
+	color: #171717;
+	overflow:hidden;
+}
 
+.container1{
+	text-align: center;
+}
+
+.container1.a{
+	color: #171717;
+}
+
+.container1 hr{
+	width: 70%;
+}
+
+.container2{
+	position:relative;
+	text-align: left;
+	color: white;
+	top: 30px;
+	left:120px;
+	font-size: 20px;
+}
+
+.container2 img{
+	width:180px;
+}
+
+.container3{
+	position:relative;
+	text-align: left;
+	top:-430px;
+	left:450px;
+	color: white;
+}
+
+.container4{
+	position:relative;
+	text-align: right;
+	right: 80px;
+	top:-350px;
+	color: white;
+}
+
+.container4 a{
+	color: white;
+}
