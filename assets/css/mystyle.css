@@ -1,6 +1,6 @@
 /* style */
 body{
-	background-image: url(img/pic_background.jpg);
+	background-image: url('.img/pic_background.jpg');
 	background-repeat:no-repeat;
 	background-attachment:fixed;
 	background-position: bottom;
